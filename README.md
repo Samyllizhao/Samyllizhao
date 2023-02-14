@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Samylli Zhao
+## opa!
  <div>
   <a href="https://github.com/samyllizhao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samyllizhao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
